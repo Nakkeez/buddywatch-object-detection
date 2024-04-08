@@ -3,5 +3,7 @@
 
 # Data
 data/
+augmented_data/
 
-
+# Models
+trained_models/
